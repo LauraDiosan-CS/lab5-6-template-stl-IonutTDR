@@ -1,6 +1,4 @@
 ﻿  Repository.cpp
-Tests.obj : error LNK2019: unresolved external symbol "public: __thiscall Repository<class Aplicatie>::Repository<class Aplicatie>(void)" (??0?$Repository@VAplicatie@@@@QAE@XZ) referenced in function "void __cdecl test_repository(void)" (?test_repository@@YAXXZ)
-Tests.obj : error LNK2019: unresolved external symbol "public: __thiscall Repository<class Aplicatie>::~Repository<class Aplicatie>(void)" (??1?$Repository@VAplicatie@@@@QAE@XZ) referenced in function "void __cdecl test_repository(void)" (?test_repository@@YAXXZ)
-Tests.obj : error LNK2019: unresolved external symbol "public: void __thiscall Repository<class Aplicatie>::addElem(class Aplicatie const &)" (?addElem@?$Repository@VAplicatie@@@@QAEXABVAplicatie@@@Z) referenced in function "void __cdecl test_repository(void)" (?test_repository@@YAXXZ)
-Tests.obj : error LNK2019: unresolved external symbol "public: class Aplicatie * __thiscall Repository<class Aplicatie>::getAll(void)" (?getAll@?$Repository@VAplicatie@@@@QAEPAVAplicatie@@XZ) referenced in function "void __cdecl test_repository(void)" (?test_repository@@YAXXZ)
-C:\Users\Ionut\source\repos\lab 06-07\Debug\lab 06-07.exe : fatal error LNK1120: 4 unresolved externals
+  Tests.cpp
+  Generating Code...
+  lab 06-07.vcxproj -> C:\Users\Ionut\source\repos\lab 06-07\Debug\lab 06-07.exe
